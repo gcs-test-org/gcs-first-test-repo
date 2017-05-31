@@ -1,0 +1,7 @@
+{
+  'type': 'Organization', 'config': {
+    'url': 'https://63206321.ngrok.io/_ah/api/githubconnector/v1/customers/5629499534213120/webhook',
+    'insecure_ssl': '0',
+    'content_type': 'json'
+  }, 'updated_at': '2017-05-31T18:48:16Z', 'ping_url': 'https://api.github.com/orgs/gcs-test-org/hooks/14100768/pings', 'active': True, 'url': 'https://api.github.com/orgs/gcs-test-org/hooks/14100768', 'events': ['push', 'issue_comment', 'issues'], 'created_at': '2017-05-31T18:48:16Z', 'id': 14100768, 'name': 'web'
+}
